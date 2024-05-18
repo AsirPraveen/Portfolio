@@ -30,4 +30,4 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/AsirPraveenPortfolio.git
